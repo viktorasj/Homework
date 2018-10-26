@@ -1,3 +1,3 @@
 <?php
-echo('hello homeworka5!');
+echo('hello homework!');
 ?>
